@@ -7,23 +7,29 @@ This is the first post from Data Dolittle, a data analytics company that looks t
 - Python 3
 
 - NLTK 
-pip install nltk
+
+````pip install nltk````
 
 - request
-pip install requests
+
+````pip install requests````
 
 - matplotlib
-pip install matplotlib
+
+````pip install matplotlib````
 
 - Beautiful Soup
-pip install bs4
+
+````pip install bs4````
 
 **Optional**
 - PIL 
-pip install Pillow
+
+````pip install Pillow````
 
 - wordcloud 
-pip install wordcloud
+
+````pip install wordcloud````
 
 
 #### Goals:
